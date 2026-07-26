@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy",
+  "description": "An intelligent all-in-one study assistant to organize notes, generate quizzes and flashcards, manage study schedules, and master difficult concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
