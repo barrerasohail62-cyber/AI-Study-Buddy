@@ -1,20 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/e19eba42-630f-4e66-a6d7-00031c2b9a50
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Live Deployed Application Link: Prominently highlights your deployed URL: https://ai-study-buddy-ininn1d2w-barrerasohail62-3330s-projects.vercel.app/
+Badges & Visual Headers: Displays live badges for React 19, TypeScript, Tailwind CSS v4, Google Gemini 2.5 Flash, and Vercel Deployment.
+Core Feature Breakdown: Detailed explanations of the AI Study Assistant, AI Quiz Generator, Smart Study Planner & Exam Tracker, Notes & 1-Click Flashcards, and Analytics & Mastery Dashboard.
+Tech Stack & Architecture: Overview of React 19, Express, Vite, @google/genai, Motion, and Recharts.
+Project File Hierarchy: Clear directory structure tree describing the modular layout of components, pages, and backend proxy logic.
+Getting Started Guide: Step-by-step instructions for repository cloning, dependency installation, environment variable configuration (GEMINI_API_KEY), and local server commands (npm run dev).
+Production Build & Vercel Deployment Guide: Detailed steps for running production builds and deploying on Vercel or Cloud Run.
