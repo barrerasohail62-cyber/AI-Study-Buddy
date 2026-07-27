@@ -46,8 +46,7 @@ AI Study Buddy is an AI-powered web application designed to make learning easier
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-(Add screenshot here)
-
+screencapture-ai-study-buddy-delta-six-vercel-app-2026-07-27-04_41_19.png
 ### 🤖 AI Study Assistant
 (Add screenshot here)
 
