@@ -2,7 +2,7 @@
 
 > Your intelligent AI-powered learning companion that helps students study smarter, practice effectively, and stay organized.
 
-## 🚀 Live Demo
+## 🚀 Live URL
 
 🔗 https://ai-study-buddy-ininn1d2w-barrerasohail62-3330s-projects.vercel.app/
 
